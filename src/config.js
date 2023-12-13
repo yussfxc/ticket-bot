@@ -3,13 +3,13 @@ const { ButtonStyle, TextInputStyle } = Discord;
 
 export default {
   PREFIX: "!",
-  TOKEN: "MTE4NDQ3NDg1Mjc0OTQ5MjI1NQ.GtLgpv.OxKxSAYrQdei_ctqoeRcInmKWNn1IIPCGG7j14",
-  ACTIVITY: { NAME: "gagsgag", TYPE: "PLAYING" },
-  GUILD_ID: "1132384691878625433",
+  TOKEN: "token",
+  ACTIVITY: { NAME: "BİŞİ BİŞİ OYNUYOR", TYPE: "PLAYING" },
+  GUILD_ID: "SUNUCU İD",
   TICKET: {
-    CHANNEL: "1182267041751777300",
-    CATEGORY: "1182267421902508052",
-    ARCHIVE_CATEGORY: "1184476026282201088",
+    CHANNEL: "KANAL İD",
+    CATEGORY: "KATEGORİ İD",
+    ARCHIVE_CATEGORY: "ARŞİV KATEGORİ İD",
     MESSAGE: "Bilet oluşturmak için butona tıklayın!",
     STAFF_ROLES: [],
     BUTTONS: [
